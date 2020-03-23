@@ -51,6 +51,24 @@ public class PrzyciskiTest {
     }
 
     @Test
+    public void afterClickButton2TextBoxShouldContains1Test() {
+        window.button(B2)
+                .click();
+        Pause.pause();
+        window.textBox()
+                .requireText("1");
+    }
+
+    @Test
+    public void afterClickButton3TextBoxShouldContains1Test() {
+        window.button(B3)
+                .click();
+        Pause.pause();
+        window.textBox()
+                .requireText("1");
+    }
+
+    @Test
     public void afterClickingButton1BackgroundShouldChangeColorTest() {
         window.button(B1).background().requireEqualTo(Color.blue);
         window.button(B1)
@@ -85,18 +103,15 @@ public class PrzyciskiTest {
 
 
     @Test
-    public void afterUse3ButtonsTextBoxShouldContains3Test() {
+    public void afterUse2ButtonsTextBoxShouldContains3Test() {
         window.button(B1)
                 .click();
         Pause.pause();
         window.button(B2)
                 .click();
         Pause.pause();
-        window.button(B3)
-                .click();
-        Pause.pause();
         window.textBox()
-                .requireText("3");
+                .requireText("2");
     }
 
     @Test

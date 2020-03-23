@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PrzyciskiTest.afterClickingButton1TwoTimesBackgroundShouldBackToBlueColor">
+  <component name="RunManager" selected="JUnit.PrzyciskiTest">
     <configuration name="PrzyciskiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-6-zadanie-5-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
@@ -55,11 +55,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrzyciskiTest.afterClickButton1BackgroundShouldChangeColor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrzyciskiTest.afterClickingButton1BackgroundShouldChangeColorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-6-zadanie-5-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PrzyciskiTest" />
-      <option name="METHOD_NAME" value="afterClickButton1BackgroundShouldChangeColor" />
+      <option name="METHOD_NAME" value="afterClickingButton1BackgroundShouldChangeColorTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,21 +75,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrzyciskiTest.shouldContain1AfterClickingInB2Button" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrzyciskiTest.afterClickingButton1TwoTimesBackgroundShouldBackToBlueColorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-6-zadanie-5-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PrzyciskiTest" />
-      <option name="METHOD_NAME" value="shouldContain1AfterClickingInB2Button" />
+      <option name="METHOD_NAME" value="afterClickingButton1TwoTimesBackgroundShouldBackToBlueColorTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrzyciskiTest.shouldHaveTitleName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrzyciskiTest.afterUse2ButtonsTextBoxShouldContains3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-6-zadanie-5-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PrzyciskiTest" />
-      <option name="METHOD_NAME" value="shouldHaveTitleName" />
+      <option name="METHOD_NAME" value="afterUse2ButtonsTextBoxShouldContains3Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrzyciskiTest.afterClickingButton1TwoTimesBackgroundShouldBackToBlueColor" />
         <item itemvalue="JUnit.PrzyciskiTest" />
-        <item itemvalue="JUnit.PrzyciskiTest.afterClickButton1BackgroundShouldChangeColor" />
-        <item itemvalue="JUnit.PrzyciskiTest.shouldContain1AfterClickingInB2Button" />
-        <item itemvalue="JUnit.PrzyciskiTest.shouldHaveTitleName" />
+        <item itemvalue="JUnit.PrzyciskiTest.afterClickingButton1TwoTimesBackgroundShouldBackToBlueColorTest" />
+        <item itemvalue="JUnit.PrzyciskiTest.afterClickingButton1BackgroundShouldChangeColorTest" />
+        <item itemvalue="JUnit.PrzyciskiTest.afterUse2ButtonsTextBoxShouldContains3Test" />
+        <item itemvalue="JUnit.PrzyciskiTest.afterClickingButton1TwoTimesBackgroundShouldBackToBlueColor" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584991410236</updated>
-      <workItem from="1584991413168" duration="5031000" />
+      <workItem from="1584991413168" duration="5546000" />
     </task>
     <servers />
   </component>
